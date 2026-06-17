@@ -3,7 +3,7 @@
   "short_name": "Rockhampton",
   "start_url": "/",
   "display": "standalone",
-  "theme_color": "#0A2540",
+  "theme_color": "#4B0082",
   "background_color": "#FFFFFF",
   "icons": [
     {
@@ -11,5 +11,10 @@
       "sizes": "any",
       "type": "image/svg+xml"
     }
-  ]
+  ],
+  "lang": "en",
+  "orientation": "portrait-secondary",
+  "scope": "/",
+  "description": "Professional geotechnical services in Rockhampton, Australia. Soil studies, testing and technical consulting.",
+  "id": "/rockhampton-4569"
 }
